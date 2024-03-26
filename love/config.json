@@ -1,0 +1,7 @@
+{
+	"label":	"Love2D Game",
+	"icon":	"icon.png",
+	"launch":	"launch.sh",
+	"noaudiofix":	1,
+	"description":	"Love2D Game"
+}
